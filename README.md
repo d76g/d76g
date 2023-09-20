@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bashar,
 - 👀 I’m interested in Web development,
-- 🌱 I’m currently learning Laravel and React.js,
+- 🌱 Laravel and Flutter Developer,
 - 💞️ I’m looking to collaborate on Web-based Systems,
 - 📫 eMail me on basharalshaibani12@gmail.com ,
 - 💡 A co-founder of https://www.instagram.com/t9chnih/ 
